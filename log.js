@@ -3,5 +3,6 @@ console.log("hiiii")
 
 
 function main(){
-  return null
+  return null;
 }
+main()
